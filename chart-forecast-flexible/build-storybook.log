@@ -1,0 +1,44 @@
+
+[90m┌[39m  Building storybook v10.2.3
+[90m│[39m
+[32m◇[39m  Cleaning outputDir:
+[90m│[39m  [36m../../../../../../var/folders/98/8_hsk5vn4zzfzxcjh03rgbtc0000gn/T/chromatic--62995-YCOhjwTExdys[39m
+[90m│[39m
+[32m◇[39m  Loading presets
+[90m│[39m
+[32m◇[39m  Building manager..
+[90m│[39m
+[34m●[39m  Building preview..
+[90m│[39m
+[34m●[39m  Addon-docs: using MDX3
+[90m│[39m
+[34m●[39m  Using implicit CSS loaders
+[90m│[39m
+[34m●[39m  Using default Webpack5 setup
+[90m│[39m
+[33m▲[39m  asset size limit: The following asset(s) exceed the recommended size
+[90m│[39m  limit (244 KiB).
+[90m│[39m  This can impact web performance.
+[90m│[39m  Assets:
+[90m│[39m  static/media/addon-library.7a58d2cb.png (456 KiB)
+[90m│[39m  5.1b76d711.iframe.bundle.js (812 KiB)
+[90m│[39m  514.5ec77975.iframe.bundle.js (1.04 MiB)
+[90m│[39m  470.1921173b.iframe.bundle.js (358 KiB)
+[90m│[39m  302.c0b06c91.iframe.bundle.js (579 KiB)
+[90m│[39m  496.b7e162ba.iframe.bundle.js (278 KiB)
+[90m│[39m
+[33m▲[39m  entrypoint size limit: The following entrypoint(s) combined asset size
+[90m│[39m  exceeds the recommended limit (244 KiB). This can impact web
+[90m│[39m  performance.
+[90m│[39m  Entrypoints:
+[90m│[39m  main (592 KiB)
+[90m│[39m  runtime~main.739f80e1.iframe.bundle.js
+[90m│[39m  302.c0b06c91.iframe.bundle.js
+[90m│[39m  main.2093650f.iframe.bundle.js
+
+[90m│[39m
+[32m◇[39m  Output directory:
+[90m│[39m  /var/folders/98/8_hsk5vn4zzfzxcjh03rgbtc0000gn/T/chromatic--62995-YCOhjwTExdys
+[90m│[39m
+[90m└[39m  Storybook build completed successfully
+
